@@ -10,7 +10,6 @@ namespace Contabilidad_Blockchain
 {
     internal class LibroDiario
     {
-
         MySqlConnection connectionSeat = ConnectionMySql.getConnection(); // Abre conexión
         MySqlCommand commandSeat = new MySqlCommand(String.Format("SELECT * FROM account"), connectionSeat); // Envía Query
         MySqlDataReader reader = (MySqlDataReader)commandSeat.ExecuteReader(); // Estable un lector (reader)
