@@ -1,0 +1,6 @@
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.csproj.AssemblyReference.cache
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.csproj.SuggestedBindingRedirects.cache
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.exe.config
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.Properties.Resources.resources
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.csproj.GenerateResource.cache
+D:\facultad\LAB III\Contabilidad_Blockchain\Contabilidad_Blockchain\Contabilidad_Blockchain\obj\Debug\Contabilidad_Blockchain.csproj.CoreCompileInputs.cache
