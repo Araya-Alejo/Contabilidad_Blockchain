@@ -36,7 +36,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(433, 36);
+            this.button1.Location = new System.Drawing.Point(158, 26);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(189, 23);
             this.button1.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(127, 36);
+            this.button2.Location = new System.Drawing.Point(12, 26);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(111, 23);
             this.button2.TabIndex = 1;
@@ -54,9 +54,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(253, 178);
+            this.button3.Location = new System.Drawing.Point(12, 98);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(214, 23);
+            this.button3.Size = new System.Drawing.Size(335, 23);
             this.button3.TabIndex = 2;
             this.button3.Text = "Libro mayor";
             this.button3.UseVisualStyleBackColor = true;
@@ -64,9 +64,9 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(253, 246);
+            this.button4.Location = new System.Drawing.Point(12, 127);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(214, 23);
+            this.button4.Size = new System.Drawing.Size(335, 23);
             this.button4.TabIndex = 3;
             this.button4.Text = "Libro diario";
             this.button4.UseVisualStyleBackColor = true;
@@ -75,7 +75,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(359, 164);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
